@@ -1,0 +1,13 @@
+
+discord.py
+aiohttp
+flask
+requests
+psutil
+python-dotenv
+aiohttp
+discord.py
+flask
+psutil
+python-dotenv
+requests
